@@ -1,0 +1,8 @@
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\obj\Debug\CollectionTaskHandson.csproj.AssemblyReference.cache
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\obj\Debug\CollectionTaskHandson.csproj.SuggestedBindingRedirects.cache
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\obj\Debug\CollectionTaskHandson.csproj.CoreCompileInputs.cache
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\bin\Debug\CollectionTaskHandson.exe.config
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\bin\Debug\CollectionTaskHandson.exe
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\bin\Debug\CollectionTaskHandson.pdb
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\obj\Debug\CollectionTaskHandson.exe
+C:\Training\DotNetTraining\CollectionTaskHandson\CollectionTaskHandson\obj\Debug\CollectionTaskHandson.pdb
